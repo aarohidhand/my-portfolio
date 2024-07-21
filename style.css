@@ -203,9 +203,9 @@ nav ul li a:hover::after{
     width: 250px;
     font-size: 18px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-    background-color: #E4A9D0;
+    background-color: ;
     border: none;
-    color: #ffffff;
+    color: #4f4a4a;
     transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
 }
 
@@ -232,8 +232,8 @@ nav ul li a:hover::after{
 .achievements h2 {
     padding-left: 80px;
     color: #AD88C6;
-    margin-bottom: 20px;
-    font-weight: bold;
+   
+    
 }
 
 .achievements-container {
@@ -349,10 +349,9 @@ nav ul li a:hover::after{
     color: #AD88C6;
     text-align: center;
 }
-
-.contact h2 {
-    padding-left: 80px
-{
+.contact h2{
+    padding-left: 80px;
+}
 
 .contact p {
     font-size: 2em;
@@ -457,4 +456,3 @@ button:hover {
     height: 30px;
     margin-right: 10px;
 }
-
