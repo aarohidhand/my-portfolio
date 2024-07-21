@@ -203,7 +203,7 @@ nav ul li a:hover::after{
     width: 250px;
     font-size: 18px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-    background-color: #E4A9D0;
+   
     border: none;
     color: #ffffff;
     transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
